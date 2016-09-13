@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="SegmentedControlView">
+        <attr name="scv_unselectedTextColor" format="reference" />
+        <attr name="scv_unselectedColor" format="reference" />
+        <attr name="scv_selectedColor" format="reference" />
+        <attr name="scv_selectedTextColor" format="reference" />
+        <attr name="scv_items" format="reference" />
+        <attr name="scv_values" format="reference" />
+        <attr name="scv_equalWidth" format="boolean" />
+        <attr name="scv_stretch" format="boolean" />
+        <attr name="scv_defaultSelection" format="integer" />
+        <attr name="scv_identifier" format="string" />
+        <attr name="scv_stroke" format="dimension|reference" />
+        <attr name="scv_textSize" format="dimension|reference" />
+        <attr name="scv_radius" format="dimension|reference" />
+    </declare-styleable>
+
+</resources>
